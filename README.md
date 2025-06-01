@@ -1,0 +1,1 @@
+This project provides a reminder facility to the subscribers.
